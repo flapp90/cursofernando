@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
 export class Grafica1Component {
 
 public label1: string[] = ["sin nombre 1","sin nombre 2","sin nombre 3",]
-public data1: number[] = [1,555,222];
+public data1: number[] = [176,555,222];
 
 public label2: string[] = ["compras buenas","compras malas","compras masomenos","compras tremendas"]
 public data2: number[] = [444,222,111,2222];
